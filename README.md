@@ -1,7 +1,7 @@
 
 # 🏛️ Architect Portfolio 2026 | Shubham Singh
 
-[![Live Demo](https://shubhamsportfolio00.netlify.app/)
+[Live Demo](https://shubhamsportfolio00.netlify.app/)
 
 
 > **"Architecting Scale through Disciplined Engineering."**
