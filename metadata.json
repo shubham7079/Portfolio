@@ -1,0 +1,8 @@
+{
+  "name": "Shubham Singh - Premium Portfolio 2026",
+  "description": "A results-driven personal portfolio for a Full-Stack MERN Developer, featuring case studies and an AI-powered resume assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
